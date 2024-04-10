@@ -11,7 +11,7 @@
 + **On Unix**
 
 ```
-$ sudo add-apt-repository ppa:cwchien/gradle
+$ sudo add-apt-repository ppa:cwchien/gradles
 $ sudo apt-get update
 $ sudo apt-get install gradle
 ```
